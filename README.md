@@ -1,2 +1,2 @@
-# kinoafisha-new-front
+# kinoafisha-front-sandox
 Created with CodeSandbox
